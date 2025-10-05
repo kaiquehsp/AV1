@@ -1,0 +1,19 @@
+# Dependências do Node.js - ESSENCIAL
+node_modules/
+
+# Código compilado do TypeScript
+dist/
+
+# Pasta com os dados do usuário (funcionarios.txt, etc.)
+data/
+
+# Pasta com os relatórios gerados
+relatorios/
+
+# Arquivos de log do NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente (caso você adicione no futuro)
+.env
